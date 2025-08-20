@@ -12,7 +12,9 @@ V1 had a really simple circuit. I used a chain of 8x8 MAX7219 lights connected t
 
 ![V1 circuit](images/V1_circuit.png)
 
-https://github.com/gmongaras/Protogen_Code_Public/blob/main/images/V1_vid.mp4
+https://github.com/user-attachments/assets/fff4bf91-dbf6-41b1-8a8d-e8a4e18c263c
+
+
 
 
 
@@ -29,20 +31,19 @@ I don't have a wiring diagram as I build it in the helmet piece at a time. I kep
 
 By default the lights are rotating RGB for both the side peices and the face pieces. You can throw a different set of frames on there to change the face.
 
-https://github.com/gmongaras/Protogen_Code_Public/blob/main/images/V2_base.mp4
+https://github.com/user-attachments/assets/78becf25-92b1-4499-8fd7-100ed4a43ce8
 
 A boop sensor exists
 
-https://github.com/gmongaras/Protogen_Code_Public/blob/main/images/V2_boop.mp4
+https://github.com/user-attachments/assets/cb901f3e-fc18-4420-a137-10acc785ba56
 
 You can change things with bluetooth
 
-https://github.com/gmongaras/Protogen_Code_Public/blob/main/images/V2_demo.mp4
+Uploading V2_demo.mp4…
 
 It also looks cool in the dark.
 
-https://github.com/gmongaras/Protogen_Code_Public/blob/main/images/V2_night.mp4
-
+https://github.com/user-attachments/assets/26e791a1-d807-4aea-b9fc-d98bf69de0a3
 
 There are other features I didn't feel like comitting to as they were not worth the trouble. For example, you can put gifs on there, it's just really annoying and limitied due to the limted on-bard RAM.
 
