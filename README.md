@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/cb901f3e-fc18-4420-a137-10acc785ba56
 
 You can change things with bluetooth
 
-Uploading V2_demo.mp4…
+https://github.com/user-attachments/assets/5fd3033d-714c-4964-9502-7b08c8090203
 
 It also looks cool in the dark.
 
