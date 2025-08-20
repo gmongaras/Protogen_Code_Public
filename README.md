@@ -2,9 +2,9 @@ Code for my protogen named Nytrix. This repo has all the garbage code I wrote fo
 
 Is this code good? Absolutely not. Does it work? That is debatable.
 
-IDK why you would, but if you use this code, customize it a little. I don't wanna run into another Nytrix 😳
+If you use this code, pls customize it a little. I don't wanna run into another Nytrix 😳
 
-If you wanna add anything, feel free to submit a PR.
+if you manage to get this thing working and if you wanna add anything, feel free to throw some stuff in issues or make a pr.
 
 # V1
 
